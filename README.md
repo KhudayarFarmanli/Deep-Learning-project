@@ -7,3 +7,7 @@ Inside this folder (`Analysis`) there are some python files that has been used f
 - The implementation of the multi-scale testing extension is defined in `test_multiscale.py`
 - The implementation of the ensembling extension is defined in `test_ensemble.py`
 - Finally, in eval it is specified whether to use test_multiscale or test_ensemble thanks to flags defined in `parser.py`
+
+## Project Description
+![Hola](Data Augmentation 2.png)
+
