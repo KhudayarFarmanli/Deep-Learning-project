@@ -10,5 +10,7 @@ Inside this folder (`Analysis`) there are some python files that has been used f
 
 ## Project Description
 [Data Augmentation 2.png](https://github.com/albertomg098/MLDL-Final-Project/issues/1#issue-1284023672)](https://github.com/albertomg098/MLDL-Final-Project/issues/1#issue-1284023672)
+
 [Multi-scale.png](https://github.com/albertomg098/MLDL-Final-Project/issues/1#issuecomment-1165804388)
+
 [Ensembling.png](https://github.com/albertomg098/MLDL-Final-Project/issues/1#issuecomment-1165804191)
