@@ -1,5 +1,5 @@
 # MLDL-Final-Project
-This project propose some extensions to improve Deep Visual Geo-Localization Benchmark ued for the task of VPR. The proposed extensions improve robustness to night images and occlusions, apply new optmizers for training the model, propose a multi-scale strategy for building richer descriptors and provide a way to combine models.
+This project propose some extensions to improve Deep Visual Geo-Localization Benchmark ued for the task of VPR. The proposed extensions improve robustness to night images and occlusions, apply new optmizers for training the model, propose a multi-scale strategy for building richer descriptors and provide a way to combine models. Results are in `Results Analysis`
 
 ## Train Improvements
 ### Data Augmentation Night Robustness
